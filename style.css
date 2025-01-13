@@ -1,0 +1,25 @@
+
+/* Estilos para el titulo h1*/
+/*Selector de etiqueta */
+h1 {
+    color: #7f36b7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Estilos para el titulo h2*/
+h2 {
+    color: #a182b3;
+}
+
+/* Selector de clase */
+.color-personalizado {
+    color: #a182b3
+    font-family: Cambria, Cochin, Georgia, Times, 'Timers New Roman'
+    text-align: center;
+    font-size: 24px;
+}
+
+/*Selectpr de id*/
+#textp-saludo {
+    color: #tomato;
+}
