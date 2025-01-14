@@ -13,13 +13,13 @@ h2 {
 
 /* Selector de clase */
 .color-personalizado {
-    color: #a182b3
-    font-family: Cambria, Cochin, Georgia, Times, 'Timers New Roman'
+    color: #a182b3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Timers New Roman';
     text-align: center;
     font-size: 24px;
 }
 
 /*Selectpr de id*/
 #textp-saludo {
-    color: #tomato;
+    color: tomato;
 }
